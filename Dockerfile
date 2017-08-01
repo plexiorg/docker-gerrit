@@ -1,4 +1,4 @@
-FROM arm64v8/openjdk:8-jre-alpine
+FROM arm32v6/openjdk:8-jre-alpine
 
 MAINTAINER zsx <thinkernel@gmail.com>
 
